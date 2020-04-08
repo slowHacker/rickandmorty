@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # How to link a Rick and Morty Show Angular Application to GitHub
 `git remote add origin https://github.com/slowHacker/rickandmorty.git`
+
+
 `git remote -v`
 
 ## Development server

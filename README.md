@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # RickandmortyshowApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+
+# How to link a Rick and Morty Show Angular Application to GitHub
+`git remote add origin https://github.com/slowHacker/rickandmorty.git`
+`git remote -v`
 
 ## Development server
 
@@ -29,4 +32,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # rickandmorty
 API to be used: https://rickandmortyapi.com/api/character/
->>>>>>> 5ffb59ee62374e486d6f7002cbfb7785d863032e
